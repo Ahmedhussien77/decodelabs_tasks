@@ -31,5 +31,6 @@ A Python tool that analyzes password security logic by validating length, charac
    ```bash
    python password_checker.py
    ### 👤 Author
-* **Name:** Nada Mamdouh
+* **Name:** Ahmed hussien
+ 
 * **Domain:** Cyber Security
